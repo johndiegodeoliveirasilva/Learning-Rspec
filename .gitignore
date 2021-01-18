@@ -11,4 +11,4 @@
 /public/assets
 /tags
 /tmp/*
-/config/app_environment_variables.rb
+/tdd-spec-cleanup-exercise/config/app_environment_variables.rb
