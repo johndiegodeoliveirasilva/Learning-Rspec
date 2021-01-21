@@ -1,2 +1,0 @@
-class Magazine < ApplicationRecord
-end
